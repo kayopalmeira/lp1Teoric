@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534825936 source:c:\users\samsung\desktop\ide's\projects\lp1\maritan\roteiro q6\main.cpp
+	<iostream>
+	"Televisao.h"
+
+1534825859 c:\users\samsung\desktop\ide's\projects\lp1\maritan\roteiro q6\include\televisao.h
+
+1534825980 source:c:\users\samsung\desktop\ide's\projects\lp1\maritan\roteiro q6\src\televisao.cpp
+	"Televisao.h"
+

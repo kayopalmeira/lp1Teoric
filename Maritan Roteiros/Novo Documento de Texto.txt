@@ -1,0 +1,7 @@
+1.Uma classe é uma forma estruturada que referencia um conjunto de métodos e objetos de modo a facilitar a interatividade do código para com seus atributos. Um objeto é um componente individual referenciado por uma classe, e este componente serve como ponto de partida para uma junção organizada e ordenada de atributos relacionados a ele mesmo.
+
+2.Um construtor é um método de inicialização de objetos, e sua função principal é não deixar que os atributos da classe divulguem lixo de memória em seu estado inicial.
+
+3.O operador 'new' é um construto de linguagem que tem como função performar a alocação de memória dinâmina num objeto de uma classe. Sua implementação é seguida por um ponteiro, desse modo a memória é acessada indiretamente, pelo fato da localidade precisa da alocação não poder ser encontrada na sua inicialização.
+
+4.O encapsulamento previne erros de "setagem" de atributos, protege o desenvolvedor de um usuário intermediário, impede tentativas maliciosas de mudar características essenciais do seu programa, permite o desenvolvedor a possibilidade de disponibilizar a funcionalidade do objeto sem abrir a lógica por trás do algoritmo para terceiros. Um exemplo disso é um sistema de modelagem matemática otimizado, que referencia em seu encapsulamento as etapas de resolução, mas não mostra o conteúdo dos métodos, ou também, então, um algoritmo de base de dados bancários, que procura a proteção do estado final dos atributos.
